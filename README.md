@@ -10,10 +10,10 @@ This repository contains deliverables for Part 2 of the iPad Formula Input Keybo
 
 
 ### 2. Interactive Prototype Links
-- **Working JavaScript Prototype**: [https://hci-emhv-binghao-huangs-projects.vercel.app/)
+- **Working JavaScript Prototype**: [Demo link:](https://hci-emhv-binghao-huangs-projects.vercel.app/)
 
 
-- **Figma Design**: [[https://www.figma.com/filed](https://www.figma.com/proto/qJSXxc34WGXJXE8lHyUsac/Untitled?node-id=26-446&node-type=canvas&t=mA3xpgT4hWBKECgX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A446))
+- **Figma Design**: [Figma Link](https://www.figma.com/proto/qJSXxc34WGXJXE8lHyUsac/Untitled?node-id=26-446&node-type=canvas&t=mA3xpgT4hWBKECgX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=26%3A446))
 
 
 ### 3. Presentation Slides
