@@ -6,7 +6,7 @@ This repository contains deliverables for Part 2 of the iPad Formula Input Keybo
 ## Repository Contents
 
 ### 1. Design Report
-- `Design_Report.pdf` - Comprehensive documentation of our high-fidelity prototype development and participatory design process
+- `Project Part 2 Report` - Comprehensive documentation of our high-fidelity prototype development and participatory design process
 
 
 ### 2. Interactive Prototype Links
@@ -17,7 +17,7 @@ This repository contains deliverables for Part 2 of the iPad Formula Input Keybo
 
 
 ### 3. Presentation Slides
-- `Presentation.pptx` - Slides for  project presentation
+- `Presentation.pptx` - [OndDrive Link](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/hcao28_jh_edu/EiHZMPOedu5OoviDQW71vykBpqypPA0Fv2USAMYtscLYSw?e=5iCDi4)
 
 ## Team Members
 - Advik Maniyar
