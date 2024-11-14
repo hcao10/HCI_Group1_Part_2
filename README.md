@@ -21,6 +21,8 @@ This repository contains deliverables for Part 2 of the iPad Formula Input Keybo
 
 ### 4. All Files
 - `All Files` - [OneDrive Link](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/hcao28_jh_edu/EiHZMPOedu5OoviDQW71vykBpqypPA0Fv2USAMYtscLYSw?e=O0FHBz)
+- For some reason, we’ve noticed that in certain cases, opening the OneDrive link does not display the Slides file (even though it was added to the shared folder with “anyone can view” access set). So, we’ve included this text file to clarify the issue. Please use the link provided above instead in case. Thank you for your understanding.
+
 
 ## Team Members
 - Advik Maniyar
